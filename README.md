@@ -18,3 +18,9 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
+## Deploy to Heroku
+
+Follow [http://www.phoenixframework.org/docs/heroku](http://www.phoenixframework.org/docs/heroku)
+
+Demo url: [https://bear-phoenix-helloworld.herokuapp.com](https://bear-phoenix-helloworld.herokuapp.com)
